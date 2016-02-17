@@ -1,0 +1,44 @@
+feb. 17, 2016 10:20:43 AM Server.Server runServer
+INFO: Server Started. Listening on: 9999, bound to 192.168.1.162
+feb. 17, 2016 10:20:43 AM Server.Server runServer
+INFO: Server Status: Ready to recieve a new client
+feb. 17, 2016 10:20:50 AM Server.Server runServer
+INFO: Client Connected
+feb. 17, 2016 10:20:50 AM Server.Server runServer
+INFO: Starting client thread...
+feb. 17, 2016 10:20:50 AM Server.Server runServer
+INFO: Server Status: Ready to recieve a new client
+feb. 17, 2016 10:20:56 AM Server.ClientHandler update
+INFO: clientList Updated
+feb. 17, 2016 10:20:56 AM Server.Server updateList
+INFO: Updating List...
+feb. 17, 2016 10:20:56 AM Server.Server updateList
+INFO: Current number of observers: 1
+feb. 17, 2016 10:20:56 AM Server.Server addToList
+INFO: Added kristian to list
+feb. 17, 2016 10:20:56 AM Server.ClientHandler handle
+INFO: Client kristian connected
+feb. 17, 2016 10:21:06 AM Server.Server runServer
+INFO: Client Connected
+feb. 17, 2016 10:21:06 AM Server.Server runServer
+INFO: Starting client thread...
+feb. 17, 2016 10:21:06 AM Server.Server runServer
+INFO: Server Status: Ready to recieve a new client
+feb. 17, 2016 10:21:09 AM Server.ClientHandler handle
+SEVERE: Lost connection with client: ���� ����'������
+feb. 17, 2016 10:21:09 AM Server.ClientHandler update
+INFO: clientList Updated
+feb. 17, 2016 10:21:09 AM Server.Server updateList
+INFO: Updating List...
+feb. 17, 2016 10:21:09 AM Server.Server updateList
+INFO: Current number of observers: 1
+feb. 17, 2016 10:21:09 AM Server.Server removeClientFromList
+INFO: Removed ���� ����'������ from list
+feb. 17, 2016 10:21:22 AM Server.ClientHandler handle
+SEVERE: Lost connection with client: kristian
+feb. 17, 2016 10:21:22 AM Server.Server updateList
+INFO: Updating List...
+feb. 17, 2016 10:21:22 AM Server.Server updateList
+INFO: Current number of observers: 0
+feb. 17, 2016 10:21:22 AM Server.Server removeClientFromList
+INFO: Removed kristian from list
